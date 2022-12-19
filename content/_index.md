@@ -2,7 +2,7 @@
 
 <img class="avatar" src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Blank&hairColor=Black&facialHairType=BeardLight&facialHairColor=Black&clotheType=Hoodie&clotheColor=White&eyeType=Happy&eyebrowType=RaisedExcitedNatural&mouthType=Default&skinColor=Brown" alt="avatar">
 
-I am interested in learning about **Robotics, Computer Vision, Linux, and NLP**.
+I am interested in working on **Robotics, Computer Vision, Linux, and NLP**.
 
 I did my **[BTech + MS by Research]** in **Electronics and Communication Engineering from IIIT-Hyderabad** where I worked with [**Dr. Madhava Krishna**](https://scholar.google.com/citations?hl=en&user=QDuPGHwAAAAJ&view_op=list_works&sortby=pubdate) at [**Robotics Research Center**](https://robotics.iiit.ac.in/).
 
