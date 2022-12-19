@@ -6,7 +6,7 @@ I am interested in learning about **Robotics, Computer Vision, Linux, and NLP**.
 
 I did my **[BTech + MS by Research]** in **Electronics and Communication Engineering from IIIT-Hyderabad** where I worked with [**Dr. Madhava Krishna**](https://scholar.google.com/citations?hl=en&user=QDuPGHwAAAAJ&view_op=list_works&sortby=pubdate) at [**Robotics Research Center**](https://robotics.iiit.ac.in/).
 
-I have worked with **Ola Electric, Qualcomm, Swiggy, Feelr, IIIT-Hyderabad and H-Bots**.
+I have worked with **Ola Electric, Qualcomm, Swiggy, Feelr, IIIT-Hyderabad and H-Bots**.I have published in conferences like **ICRA, IROS, ECCV(W), NEURIPS(W), IV, ECC**.
 
 Currently I am a **Research Engineer II** at [**Ola Electric**](https://olaelectric.com/) working on **end-to-end interpretable models** for autonomous driving. As part of my work with Ola Electric I was involved in the filing of **2 Patents**. 
 - Method and system for estimating appearance and occupancy information in bird’s eye view. **[202241014338]**
