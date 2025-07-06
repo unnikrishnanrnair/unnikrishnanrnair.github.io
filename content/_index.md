@@ -1,11 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <h2>Hi there! 👋</h2>
-  </div>
-  <div>
-    <img src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Blank&hairColor=Black&facialHairType=BeardLight&facialHairColor=Black&clotheType=Hoodie&clotheColor=White&eyeType=Happy&eyebrowType=RaisedExcitedNatural&mouthType=Default&skinColor=Brown" width="100" alt="avatar">
-  </div>
-</div>
+## Hi there! 👋 <img src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Blank&hairColor=Black&facialHairType=BeardLight&facialHairColor=Black&clotheType=Hoodie&clotheColor=White&eyeType=Happy&eyebrowType=RaisedExcitedNatural&mouthType=Default&skinColor=Brown" width="100" alt="avatar" style="float: right; margin-left: 20px;">
 
 I work at the intersection of **Robotics, Computer Vision, NLP, Linux**, and **Large-Scale ML Systems**.
 
