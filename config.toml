@@ -1,8 +1,10 @@
 baseURL = "http://unnikrishnanrnair.github.io"
 languageCode = 'en-us'
 title = 'Unnikrishnan R Nair'
-paginate = 3
 theme = 'maverick'
+
+[pagination]
+  pagerSize = 3
 
 [permalinks]
   pages = "/:slug"

@@ -1,15 +1,9 @@
 ## Hi there! 👋
-
 <img src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Blank&hairColor=Black&facialHairType=BeardLight&facialHairColor=Black&clotheType=Hoodie&clotheColor=White&eyeType=Happy&eyebrowType=RaisedExcitedNatural&mouthType=Default&skinColor=Brown" width="100" alt="avatar">
-
 I work at the intersection of **Robotics, Computer Vision, NLP, Linux**, and **Large-Scale ML Systems**.
-
----
 
 ### 🎓 Education
 I completed my **[B.Tech + MS by Research]** in **Electronics and Communication Engineering** from **IIIT-Hyderabad**, where I worked with [**Dr. Madhava Krishna**](https://scholar.google.com/citations?hl=en&user=QDuPGHwAAAAJ&view_op=list_works&sortby=pubdate) at the [**Robotics Research Center**](https://robotics.iiit.ac.in/).
-
----
 
 ### 💼 Experience
 
@@ -36,20 +30,14 @@ I completed my **[B.Tech + MS by Research]** in **Electronics and Communication 
 - Winner of **QIF 2020 and 2021**, received INR 2M grant.
 - Published on **language-based navigation** in IROS and ECCV workshops.
 
----
-
 ### 🔬 Research & Publications
 - ECCV, ICRA, IROS, NEURIPS (W), IEEE IV, ECC  
 - Topics: Visual grounding, end-to-end driving, LiDAR mapping, uncertainty-aware planning
-
----
 
 ### 📜 Patents
 - **202241014338** – Appearance & occupancy estimation in bird’s eye view  
 - **202141052888** – Navigation and behavior planning for autonomous vehicles  
 - **+4 more** filed in recommender systems at Roku (under review)
-
----
 
 ### 🏆 AI/ML Competition Rankings
 
@@ -63,15 +51,11 @@ I completed my **[B.Tech + MS by Research]** in **Electronics and Communication 
 | Food Recognition Benchmark | 4th | 1264 | [Link](https://www.aicrowd.com/challenges/food-recognition-benchmark-2022/leaderboards) |
 | Kaggle Image Matching | 35th | 14,170 | [Link](https://www.kaggle.com/competitions/image-matching-challenge-2022/leaderboard) |
 
----
-
 ### 🔗 Links
 
 - 📄 [Google Scholar](https://scholar.google.com/citations?user=BTFTmSMAAAAJ&hl=en)
 - 💻 [GitHub](https://github.com/unnikrishnanrnair)
 - 🌐 [Website](https://unnikrishnanrnair.github.io/)
 - ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/urnair)
-
----
 
 Thanks for visiting — looking forward to sharing more updates soon!
