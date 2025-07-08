@@ -55,7 +55,7 @@ I completed my **[B.Tech + MS by Research]** in **Electronics and Communication 
 
 - 📄 [Google Scholar](https://scholar.google.com/citations?user=BTFTmSMAAAAJ&hl=en)
 - 💻 [GitHub](https://github.com/unnikrishnanrnair)
-- 🌐 [Website](https://unnikrishnanrnair.github.io/)
-- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/urnair)
+<!-- - 🌐 [Website](https://unnikrishnanrnair.github.io/) -->
+<!-- - ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/urnair) -->
 
 Thanks for visiting — looking forward to sharing more updates soon!
