@@ -41,15 +41,15 @@ I completed my **[B.Tech + MS by Research]** in **Electronics and Communication 
 
 ### 🏆 AI/ML Competition Rankings
 
-| Competition | Rank | Participants | Link |
-|------------|------|--------------|------|
-| NeurIPS DeepRacer | 🥇 1st | 745 | [Link](https://www.aicrowd.com/challenges/neurips-2021-aws-deepracer-ai-driving-olympics-challenge/leaderboards?challenge_leaderboard_extra_id=981&challenge_round_id=1029) |
-| SUADD Mono Depth | 🥈 2nd | 824 | [Link](https://www.aicrowd.com/challenges/scene-understanding-for-autonomous-drone-delivery-suadd-23/problems/mono-depth-perception/leaderboards) |
-| SUADD Segmentation | 🥉 3rd | 2765 | [Link](https://www.aicrowd.com/challenges/scene-understanding-for-autonomous-drone-delivery-suadd-23/problems/semantic-segmentation/leaderboards) |
-| Visual Product Recognition | 🥉 3rd | 1581 | [Link](https://www.aicrowd.com/challenges/visual-product-recognition-challenge-2023/leaderboards) |
-| ECCV Commands for AVs | 🥉 3rd | 326 | [Link](https://www.aicrowd.com/challenges/eccv-2020-commands-4-autonomous-vehicles/leaderboards?challenge_round_id=444) |
-| Food Recognition Benchmark | 4th | 1264 | [Link](https://www.aicrowd.com/challenges/food-recognition-benchmark-2022/leaderboards) |
-| Kaggle Image Matching | 35th | 14,170 | [Link](https://www.kaggle.com/competitions/image-matching-challenge-2022/leaderboard) |
+| Competition                 | Rank     | Link |
+|----------------------------|----------|------|
+| NeurIPS DeepRacer          | 🥇 1st   | [Link](https://www.aicrowd.com/challenges/neurips-2021-aws-deepracer-ai-driving-olympics-challenge/leaderboards?challenge_leaderboard_extra_id=981&challenge_round_id=1029) |
+| SUADD Mono Depth           | 🥈 2nd   | [Link](https://www.aicrowd.com/challenges/scene-understanding-for-autonomous-drone-delivery-suadd-23/problems/mono-depth-perception/leaderboards) |
+| SUADD Segmentation         | 🥉 3rd   | [Link](https://www.aicrowd.com/challenges/scene-understanding-for-autonomous-drone-delivery-suadd-23/problems/semantic-segmentation/leaderboards) |
+| Visual Product Recognition | 🥉 3rd   | [Link](https://www.aicrowd.com/challenges/visual-product-recognition-challenge-2023/leaderboards) |
+| ECCV Commands for AVs      | 🥉 3rd   | [Link](https://www.aicrowd.com/challenges/eccv-2020-commands-4-autonomous-vehicles/leaderboards?challenge_round_id=444) |
+| Food Recognition Benchmark | 🔵 4th   | [Link](https://www.aicrowd.com/challenges/food-recognition-benchmark-2022/leaderboards) |
+| Kaggle Image Matching      | 🔵 35th  | [Link](https://www.kaggle.com/competitions/image-matching-challenge-2022/leaderboard) |
 
 ### 🔗 Links
 
