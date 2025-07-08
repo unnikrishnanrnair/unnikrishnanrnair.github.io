@@ -7,7 +7,6 @@ slug: "robotics"
 
 This page showcases some of my work in robotics, computer vision, and autonomous systems.
 
----
 
 ## ABU Robocon 2018
 
@@ -68,7 +67,7 @@ Worked on building **self-driving vehicles for Indian road conditions**, with ha
 - Data collection & annotation pipelines,
 - End-to-end learning-based planning agents.
 
-### 🚗 Project Highlights
+### 🚗 Highlights
 
 **The first autonomous vehicle platform at Ola Electric**  
 <img src="/images/robotics/45956d7b-bc52-4ab9-bc19-dd6ccd723854.jpg" alt="First AV platform" style="width: 100%; max-width: 800px;">
