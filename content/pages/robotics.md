@@ -80,8 +80,9 @@ Worked on building **self-driving vehicles for Indian road conditions**, with ha
 
 ### 🚗 Highlights
 
-**The first autonomous vehicle platform at Ola Electric**  
-<img src="/images/robotics/45956d7b-bc52-4ab9-bc19-dd6ccd723854.jpg" alt="First AV platform" style="width: 100%; max-width: 800px;">
+
+<!-- **The first autonomous vehicle platform at Ola Electric**  
+<img src="/images/robotics/45956d7b-bc52-4ab9-bc19-dd6ccd723854.jpg" alt="First AV platform" style="width: 100%; max-width: 800px;"> -->
 
 **AV testing rig**  
 <img src="/images/robotics/5b314723-4026-465d-b3de-fcfd424ab7e5.jpg" alt="Testing rig" style="width: 100%; max-width: 800px;">
@@ -91,6 +92,9 @@ Worked on building **self-driving vehicles for Indian road conditions**, with ha
 
 **6-camera data collection platform**  
 <img src="/images/robotics/40ea2687-d31a-46a6-9472-8f021e75d57d.jpg" alt="Multi-camera data collection" style="width: 100%; max-width: 800px;">
+
+**Automated data annotation pipeline**  
+<img src="/images/robotics/automatic_data_annotation.jpeg" alt="Automated data anottation pipeline" style="width: 100%; max-width: 800px;">
 
 **End-to-end policy deployment in Bangalore**  
 <img src="/images/robotics/48559fbb-b060-4fa7-9325-0925d607fbc9.jpg" alt="Real-world E2E policy test" style="width: 100%; max-width: 800px;">
