@@ -5,7 +5,7 @@ draft: false
 slug: "robotics"
 ---
 
-This page showcases some of my work in robotics, computer vision, and autonomous systems.
+This page showcases some of my work in robotics, computer vision, and autonomous systems, chronologically.
 
 
 ## ABU Robocon 2018
@@ -29,8 +29,8 @@ Our team of five developed a coordinated robot system with:
 
 At the Robotics Research Center (RRC), I contributed to building a **self-driving car from scratch**, working across the full stack:
 - Drive-by-wire systems,
-- Sensor fusion and localization,
-- Planning with **Frenet Frame-based planners**, and
+- Sensor fusion and localization (stereo + gps + lidar),
+- Planning with Frenet Frame-based planners, and
 - Perception modules.
 
 We also published multiple papers on autonomous systems and planning strategies.
@@ -38,6 +38,14 @@ We also published multiple papers on autonomous systems and planning strategies.
 {{< youtube "VOv0ykG_4O4" >}}
 
 {{< youtube "ccTYdJNIzQQ?t=131" >}}
+
+**Research work at RRC IIIT-H on localisation, planning and language to action**
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin: 20px 0;">
+  <img src="/images/robotics/srom.png" alt="SROM algorithm" style="width: 100%;">
+  <img src="/images/robotics/CMSVG.png" alt="CMSVG visualization" style="width: 100%;">
+  <img src="/images/robotics/referring_navigable_regions.png" alt="Referring navigable regions" style="width: 100%;">
+</div>
+
 
 ---
 
@@ -51,11 +59,14 @@ Participated in the **NeurIPS Sim2Real DeepRacer Challenge**, which had two roun
 - **Round 2: Sim2Real Transfer**  
   Qualifying models were tested on a real-world track, with higher weight on real-world performance.
 
-{{< youtube "EOLC1YZpzJ8" >}}
+**Sim2Real Transfer with Image gradients**
+<img src="/images/robotics/sim2real.png" alt="image gradients" style="width: 100%; max-width: 800px;">
 
+{{< youtube "EOLC1YZpzJ8" >}}
+<!-- 
 {{< youtube "QkDAbnbSKs4" >}}
 
-{{< youtube "mgkeK3dAB2Q" >}}
+{{< youtube "mgkeK3dAB2Q" >}} -->
 
 ---
 
@@ -83,6 +94,9 @@ Worked on building **self-driving vehicles for Indian road conditions**, with ha
 
 **End-to-end policy deployment in Bangalore**  
 <img src="/images/robotics/48559fbb-b060-4fa7-9325-0925d607fbc9.jpg" alt="Real-world E2E policy test" style="width: 100%; max-width: 800px;">
+
+**Research work on end to end networks for a non planar world**  
+<img src="/images/robotics/neat+surfaces.png" alt="Real-world E2E policy test" style="width: 100%; max-width: 800px;">
 
 ---
 
