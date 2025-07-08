@@ -5,8 +5,6 @@ draft: false
 slug: "Research"
 ---
 
-# 📚 Research & Publications
-
 My research explores the intersection of **robotics**, **computer vision**, and **machine learning**, with a focus on autonomous navigation, planning, and language grounding.
 
 ---

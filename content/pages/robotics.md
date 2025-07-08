@@ -7,6 +7,7 @@ slug: "robotics"
 
 This page showcases some of my work in robotics, computer vision, and autonomous systems, chronologically.
 
+---
 
 ## ABU Robocon 2018
 
