@@ -26,6 +26,11 @@ theme = 'maverick'
     url = "/about/"
     weight = "-110"
   [[menu.main]]
+    identifier = "robotics"
+    name = "Robotics"
+    url = "/robotics/"
+    weight = "-150"
+  [[menu.main]]
     identifier = "posts"
     name = "Post"
     url = "/posts/"
